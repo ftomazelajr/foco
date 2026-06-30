@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Foco</string>
+    <string name="accessibility_service_description">Detecta quando o app bloqueado é aberto e fecha automaticamente, conforme você configurou.</string>
+</resources>
